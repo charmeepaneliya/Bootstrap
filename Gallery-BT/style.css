@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    /* border: 2px solid red; */
+    height:100%;
+}
+
+.row{
+    /* border: 2px solid green; */
+    height: 100%;
+}
+.col{
+    /* border: 2px solid orange; */
+   height: 500px;
+   width: 600px;
+}
